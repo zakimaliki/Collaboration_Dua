@@ -1,1 +1,1 @@
-console.log('Mari beradu bang alip!');
+console.log('Saya takut, mending kabur');
